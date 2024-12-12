@@ -1,3 +1,4 @@
+#Lance Tieng, geek.bmp is base file, helloworld.bmp is for decoding.
 import struct
 # String to binary
 def message_to_binary(message):
